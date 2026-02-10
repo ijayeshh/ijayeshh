@@ -8,7 +8,7 @@
 
 
 🎓 &nbsp;I'm currently studying Machine Learning and AI at NC State University.\
-💡 &nbsp;Currently working as a MLE intern at [Precision Sustainable Agriculture](https://www.precisionsustainableag.org/). Previously at [Deloitte India- AI & Data](https://www.deloitte.com/in/en.html?icid=site_selector_in).\
+💡 &nbsp;Currently working as a MLE intern at [Precision Sustainable Ag.](https://www.precisionsustainableag.org/). Previously at [Deloitte India- AI & Data](https://www.deloitte.com/in/en.html?icid=site_selector_in).\
 🌱 &nbsp;I'm on track for learning more about NLP, LLMs, AI Agents and Agentic AI. \
 ✉️ &nbsp;Feel free to reach out to me for some interesting discussion.You can shoot me an email at jingale@ncsu.edu! \
 🏢 &nbsp;Seeking Full time Oppurtunities starting May 2026.\
