@@ -1,4 +1,4 @@
-<img src="./assets/Jayesh%20Ingale%20Banner.jpg" alt="Jayesh Ingale Banner" width="100%"/>
+<img src="./assets/bannergithub.png" alt="Jayesh Ingale Banner" width="100%"/>
 
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left"/><h2>Hey there! I'm Jayesh</h2>
 
